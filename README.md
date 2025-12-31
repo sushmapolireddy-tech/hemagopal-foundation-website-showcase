@@ -28,3 +28,19 @@ The focus of this repository is on **UI design, navigation structure, animations
 
 ## 🎥 Website Demo
 A short video demonstration of the website, including animations and page navigation, is available in this repository.
+
+---
+
+## 🎥 Project Demo (Video)
+
+▶️ **HemaGopal Foundation Website – Live Project Demo**  
+This video showcases the UI, animations, navigation flow, and responsiveness of the website developed during my internship.
+
+🔗 Watch the demo here:  
+https://youtu.be/RwXnVjYbMmk
+
+> ⚠️ Source code is not shared as this was a real-time internship project.  
+> This repository is intended for **project demonstration and portfolio showcase** only.
+
+---
+
